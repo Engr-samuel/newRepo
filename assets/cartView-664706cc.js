@@ -1,0 +1,1 @@
+import{_ as s,H as r,f as c,r as e,o as p,c as m,b as o,a as t}from"./index-db543138.js";const _={components:{HeaderComp:r,footerComp:c}},d=t("header",{class:"head container m-3"},[t("h3",null,"CART")],-1);function f(l,i,C,u,h,H){const a=e("HeaderComp"),n=e("footerComp");return p(),m("main",null,[o(a),d,o(n)])}const x=s(_,[["render",f]]);export{x as default};
