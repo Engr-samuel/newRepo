@@ -1,0 +1,1 @@
+import{_ as n,H as r,f as c,r as o,o as p,c as m,b as e,a as t}from"./index-bdc6d228.js";const _={components:{HeaderComp:r,footerComp:c}},d=t("div",{class:"container"},[t("h1",{class:"my-5"},"Your Favourites")],-1);function f(i,l,u,C,v,H){const s=o("HeaderComp"),a=o("footerComp");return p(),m("main",null,[e(s),d,e(a)])}const h=n(_,[["render",f]]);export{h as default};
